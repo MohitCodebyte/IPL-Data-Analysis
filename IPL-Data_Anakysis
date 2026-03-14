@@ -1,0 +1,20 @@
+# IPL Data Analysis Dashboard 🏏
+
+## Overview
+Analysis of IPL matches from 2008 to 2024 using Python, Pandas and NumPy.
+
+## Key Findings
+- Mumbai Indians are the most successful team with 140+ wins
+- Virat Kohli is the all-time top scorer with 8014 runs
+- YS Chahal is the highest wicket taker
+- CH Gayle hit the most sixes in IPL history
+- AB de Villiers won the most Player of the Match awards
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+## Dashboard Preview
+![IPL Dashboard](ipl_dashboard.png)
